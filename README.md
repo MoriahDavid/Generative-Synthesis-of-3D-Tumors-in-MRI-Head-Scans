@@ -1,4 +1,4 @@
-# Generative-Synthesis-of-3D-Tumors-in-MRI-Head-Scans
+# Generative Creation of Synthetic 3D Tumors in MRI Head Scans
 Our Final Project
 
 In this repository:
