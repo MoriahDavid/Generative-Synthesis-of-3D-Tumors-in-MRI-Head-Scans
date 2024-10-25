@@ -1,16 +1,20 @@
 # Generative Creation of Synthetic 3D Tumors in MRI Head Scans
-Our Final Project.
+Our Final Project.<br />
 
-In this repository:
-1. Project Book
-2. Link to Colab Notebooks
+### In this repository:
+1. **Project Book**
+2. **Link to Colab Notebooks**<br />
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() Brain Segmentation.<br />
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() Generate Synthetic Tumors- Full Process.<br />
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() Dataset Validation with DenseNet model.<br />
 
-Project Explanation:
+
+### Project Explanation:
 
 This project aims to improve brain tumor detection models by expanding MRI datasets with synthetic 3D tumors. By embedding synthetic tumors in healthy MRI scans, this approach creates diverse data for training AI models, especially for identifying small and subtle tumors that are often missed during manual diagnosis.
 
 Key Steps:
-1. **Locating Tumor Position**: We selected specific areas within the brain MRI scans for inserting synthetic tumors.
+1. **Brain Segmentation and Tumor Positioning**: Using brain segmentation tools, we isolated the brain from each MRI scan and identified specific areas within it for tumor insertion, ensuring precise placement within the 3D brain structure.
 2. **Creating Synthetic Tumors**: Using a geometric approach, we generated realistic 3D tumors with adjustable shapes and sizes.
 3. **Embedding Tumors**: These synthetic tumors were blended into the MRI scans for natural appearance.
 4. **Generating Slices**: We created 2D slices from various angles to ensure diverse training data.
