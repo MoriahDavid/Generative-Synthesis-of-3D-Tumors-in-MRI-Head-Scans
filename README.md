@@ -4,9 +4,9 @@ Our Final Project.<br />
 ### In this repository:
 1. **Project Book**
 2. **Link to Colab Notebooks**<br />
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() Brain Segmentation.<br />
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MoriahDavid/Synthetic-3D-Tumors/blob/main/BrainSegmentation.ipynb) Brain Segmentation.<br />
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MoriahDavid/Synthetic-3D-Tumors/blob/main/Synthetic3DTumors.ipynb) Generate Synthetic Tumors- Full Process.<br />
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() Dataset Validation with DenseNet model.<br />
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MoriahDavid/Synthetic-3D-Tumors/blob/main/BrainTumorDetection.ipynb) Dataset Validation with DenseNet model.<br />
 
 
 ### Project Explanation:
